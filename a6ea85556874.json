@@ -8,7 +8,7 @@
       "mod_version_id": "02754acb-3cea-4a08-b00e-c4cc160c7e75",
       "name": "ascension_unlock",
       "version": "1.0.0",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3784620507",
       "hash": "3c9a2abad027db7638ab71cb70e25e0426808a7af7419b5c4c13bb5332706e76",
       "files": [
         "3750166107\\ascension_unlock.dll",
@@ -25,7 +25,7 @@
       "mod_version_id": "a74e836b-006e-4da0-85e5-8945c59e4170",
       "name": "BaseLib",
       "version": "v3.4.8",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3737335127",
       "hash": "91fcd9e9d1c9ad2dc45ac270c85e9fc46c584ac3168ca0e648d597fb174dbdf2",
       "files": [
         "3737335127\\BaseLib\\BaseLib.dll",
@@ -44,7 +44,7 @@
       "mod_version_id": "ad442222-95d2-4a88-899e-ecd1ed2cf8e5",
       "name": "Better Mod Menu",
       "version": "1.1.5",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3748029698",
       "hash": "3cd03fa57013c4d1a9b7ce7993f6909800b2d852f68d7a6fe46b8b7ed57d4455",
       "files": [
         "3748029698\\BetterModMenu.dll",
@@ -57,28 +57,10 @@
       "bundle_sha256": "d132ebb3596879a22ba2d69b81f16045e22a0bee43beea3d0d776bf49fa06c3b"
     },
     {
-      "mod_version_id": "e265e90a-c435-4250-a1c1-16fa61693858",
-      "name": "Chiikawa Character Mod",
-      "version": "v0.1.0-dev.20261113.134440.360",
-      "source": null,
-      "hash": "2062ec41f10d46986c1d0ab6faaf7a88a86999ae0fae5985fe2adc1300f7f1da",
-      "files": [
-        "3784620507\\ChiikawaMod.dll",
-        "3784620507\\ChiikawaMod.json",
-        "3784620507\\ChiikawaMod.pck",
-        "3784620507\\ChiikawaMod.release-channel.txt"
-      ],
-      "folder_name": "3784620507",
-      "mod_id": "ChiikawaMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Chiikawa_Character_Mod_v0.1.0-dev.20261113.134440.360_40483263.zip",
-      "bundle_sha256": "40483263289ca2b1bb80e5166b7e5497b9ead3b381e992de96065a8094616f4b"
-    },
-    {
       "mod_version_id": "85ade55b-2a03-47a0-8663-f4e95a7864b1",
       "name": "RitsuLib",
       "version": "0.6.11",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747602295",
       "hash": "0be91a8bb3524a25889847730ebb8909ca46fde22463aafe3e4a7c9bb20118c3",
       "files": [
         "3747602295\\assets.zip",
@@ -130,7 +112,7 @@
       "mod_version_id": "dee14d9a-a6cd-4b97-a8e0-3d1cc482008d",
       "name": "UnlockTheSpire",
       "version": "v1.0.3",
-      "source": null,
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3748608067",
       "hash": "b312cf1f308d3553c7a1af8683dd46d9017870ceed3c0cf9b91a4c04f0e706fd",
       "files": [
         "3748608067\\UnlockTheSpire.dll",
@@ -142,26 +124,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/UnlockTheSpire_v1.0.3_4e33d061.zip",
       "bundle_sha256": "4e33d06148cc6c91bb36bf67a9aca28b3a49d98d660b2add92051a4c90198bc8"
-    },
-    {
-      "mod_version_id": "6a091ff7-fac0-4c88-968b-c2beb5f069ea",
-      "name": "皮肤切换器-Skin Changer",
-      "version": "1.0.29",
-      "source": null,
-      "hash": "cbcf40a3ccd7becea13219b6f3eea9f2db20715bd66b7cd3a56014ae9e9d402c",
-      "files": [
-        "3787302680\\Gurio.SkinChanger.dll",
-        "3787302680\\SkinChanger.json",
-        "3787302680\\thunninoiSkinManager.dll"
-      ],
-      "folder_name": "3787302680",
-      "mod_id": "Gurio.SkinChanger",
-      "enabled": true,
-      "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/-Skin_Changer_v1.0.29_05d7aad9.zip",
-      "bundle_sha256": "05d7aad9535c37bbd00b2d785ca69f48806a8247132418e8dd57850463af5fca"
     }
   ],
   "created_at": "2026-11-17T09:03:58.648974400Z",
-  "updated_at": "2026-11-17T10:57:47.815155400Z",
+  "updated_at": "2026-11-17T11:22:23.433359Z",
   "public": true
 }
