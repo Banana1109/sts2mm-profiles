@@ -157,9 +157,27 @@
       "enabled": true,
       "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Expanded_Co-op_v1.0.1_b2d124b5.zip",
       "bundle_sha256": "b2d124b5603bcb063283c9cd3fc27728deb8b82a2b2a89f5abdfba5b10058eff"
+    },
+    {
+      "mod_version_id": "ba26bb05-e368-4484-b93e-516604843ce3",
+      "name": "Chiikawa Character Mod",
+      "version": "v0.1.0-dev.20261117.131918.692",
+      "source": "github:Banana1109/Chiikawa_STS2_PersonalUse",
+      "hash": "61a17de60bfc3e3c83cec9fde283f2e448e674eb931b9caa563eb13373d84bb7",
+      "files": [
+        "Chikawa\\ChiikawaMod.dll",
+        "Chikawa\\ChiikawaMod.json",
+        "Chikawa\\ChiikawaMod.pck",
+        "Chikawa\\ChiikawaMod.release-channel.txt"
+      ],
+      "folder_name": "Chikawa",
+      "mod_id": "ChiikawaMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Chiikawa_Character_Mod_v0.1.0-dev.20261117.131918.692_c6bd6cba.zip",
+      "bundle_sha256": "c6bd6cba5e50a78511b838bc1369680740a04d37e04e86c320caf4141e43eb02"
     }
   ],
   "created_at": "2026-11-17T09:03:58.648974400Z",
-  "updated_at": "2026-11-17T14:41:57.180127900Z",
+  "updated_at": "2026-11-17T14:43:27.523037600Z",
   "public": true
 }
