@@ -158,9 +158,25 @@
       "enabled": true,
       "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Chiikawa_Character_Mod_v0.1.0-dev.20261117.131918.692_c6bd6cba.zip",
       "bundle_sha256": "c6bd6cba5e50a78511b838bc1369680740a04d37e04e86c320caf4141e43eb02"
+    },
+    {
+      "mod_version_id": "d7e58d97-4ead-481c-a8d3-ebd9499d3873",
+      "name": "Who Carried?",
+      "version": "2.1.0",
+      "source": "github:huntlol-dev/Who-Carried",
+      "hash": "4814e4df5a48577afb02fbfaab46913183f09d5588bdca91b1cd96d6ff2e6c8f",
+      "files": [
+        "3802205096\\WhoCarried.dll",
+        "3802205096\\WhoCarried.json"
+      ],
+      "folder_name": "3802205096",
+      "mod_id": "WhoCarried",
+      "enabled": true,
+      "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Who_Carried__v2.1.0_f487c483.zip",
+      "bundle_sha256": "f487c483f78e7e5e4d5ef064b4f9abc02c1d54c460b54f49cb9cd78af6adb36d"
     }
   ],
   "created_at": "2026-11-17T09:03:58.648974400Z",
-  "updated_at": "2026-11-17T15:00:58.509719500Z",
+  "updated_at": "2026-11-18T08:25:56.790228600Z",
   "public": true
 }
