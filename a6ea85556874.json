@@ -158,26 +158,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Chiikawa_Character_Mod_v0.1.0-dev.20261117.131918.692_c6bd6cba.zip",
       "bundle_sha256": "c6bd6cba5e50a78511b838bc1369680740a04d37e04e86c320caf4141e43eb02"
-    },
-    {
-      "mod_version_id": "bc8be6b4-c2c1-4b44-9227-da6227fc405a",
-      "name": "Exusiai",
-      "version": "v1.0.3",
-      "source": "github:PaiPai121/STS2-Exusiai",
-      "hash": "f1206c55fa667c78aa09290f198edf14b67f16de393b2afbfb104458b5f1d6f8",
-      "files": [
-        "Exusiai\\Exusiai.dll",
-        "Exusiai\\Exusiai.json",
-        "Exusiai\\Exusiai.pck"
-      ],
-      "folder_name": "Exusiai",
-      "mod_id": "exusiai",
-      "enabled": true,
-      "bundle_url": "https://github.com/Banana1109/sts2mm-profiles/releases/download/bundles/Exusiai_v1.0.3_db918d77.zip",
-      "bundle_sha256": "db918d777d6c1f95bb47e505911aa06da02d7cb37ef454c177570fc1e2106db3"
     }
   ],
   "created_at": "2026-11-17T09:03:58.648974400Z",
-  "updated_at": "2026-11-17T14:46:55.266205100Z",
+  "updated_at": "2026-11-17T15:00:58.509719500Z",
   "public": true
 }
